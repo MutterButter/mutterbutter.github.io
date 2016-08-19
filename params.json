@@ -1,0 +1,6 @@
+{
+  "name": "The MutterButter Project",
+  "tagline": "A peanut butter sandwich cookie that makes stuff.",
+  "body": "## What is the MutterButter Project?\r\nThe MutterButter Project is an overarching name for anything that I, Metacity, write or contribute to heavily enough. _(More to be added later.)_\r\n\r\n## What's here?\r\n### MutterKit\r\nA flexible IRC bot framework, using the equally flexible Mango core.\r\n\r\n**Language:** Python 3  \r\n**Project status:** In development, not yet released\r\n\r\n### AuRepos\r\nA complete, from scratch recoding of the famous [IdleRPG](http://idlerpg.net/).\r\n\r\n**Language:** Python 3  \r\n**Project status:** In development, not yet released\r\n\r\n### Toolset\r\nA set of scripts for the [Eggdrop](http://www.eggheads.org/) IRC bot, some complete, some incomplete, some original, some based on other scripts and cleaned up or expanded.\r\n\r\n**Language:** Tcl  \r\n**Project status:** Discontinued but still in use, may be revived and released",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
